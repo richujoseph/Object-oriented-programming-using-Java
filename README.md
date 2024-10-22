@@ -15,10 +15,10 @@ Here are some of my college lab projects that showcase my skills in OOP using Ja
 
 - **[String Palindrome Checker](https://github.com/your-username/string-palindrome)**  
   A program that checks if a given string is a palindrome, demonstrating string manipulation and control structures.
-
-- **[Frequency Counter](https://github.com/your-username/frequency-counter)**  
-  A program that counts the frequency of each character in a string, showcasing the use of data structures and algorithms.
-
+  
+- **[Frequency Counter](https://github.com/richujoseph/Object-oriented-programming-using-Java/blob/main/fre.java)**  
+  A program that counts the frequency of each character in a string, showcasing the use of data structures and.and algorithms.
+  
 - **[Abstract Class Example](https://github.com/your-username/abstract-class-example)**  
   A demonstration of abstract classes and methods in Java, illustrating the concept of abstraction in OOP.
 
