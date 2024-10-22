@@ -21,6 +21,9 @@ Here are some of my college lab projects that showcase my skills in OOP using Ja
   
 - **[Frequency Counter: ](https://github.com/richujoseph/Object-oriented-programming-using-Java/blob/main/fre.java)**  
   A program that counts the frequency of each character in a string, showcasing the use of data structures and.and algorithms.
+
+-  **[Hello Program: ](https://github.com/richujoseph/Object-oriented-programming-using-Java/blob/main/hello.java)**
+A simple program that prints "Hello, World!" to the console.
   
 - **[Abstract Class Example: ](https://github.com/your-username/abstract-class-example)**  
   A demonstration of abstract classes and methods in Java, illustrating the concept of abstraction in OOPS.
