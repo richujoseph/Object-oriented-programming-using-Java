@@ -13,7 +13,7 @@ Here are some of my college lab projects that showcase my skills in OOP using Ja
  - **[Matrix Operations](https://github.com/your-username/matrix-operations)**  
   A Program that performs basic matrix operations such as addition, subtraction, and multiplication, demonstrating the use of multi-dimensional arrays.
 
-- **[String Palindrome Checker](https://github.com/your-username/string-palindrome)**  
+- **[String Palindrome Checker](https://github.com/richujoseph/Object-oriented-programming-using-Java/blob/main/pal.java)**  
   A program that checks if a given string is a palindrome, demonstrating string manipulation and control structures.
   
 - **[Frequency Counter](https://github.com/richujoseph/Object-oriented-programming-using-Java/blob/main/fre.java)**  
