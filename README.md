@@ -1,4 +1,22 @@
-# Welcome to My GitHub Profile!
+# Repository Under Maintenance
+
+**⚠️ Disclaimer: This repository is currently under maintenance.**
+
+We are in the process of updating the content and fixing any issues. Please check back later for updates. We appreciate your understanding and patience during this time.
+
+## What You Can Expect
+
+- Improvements to existing code and documentation.
+- New features and enhancements.
+- Bug fixes and performance optimizations.
+
+If you have any urgent questions or need assistance, please feel free to reach out.
+
+Thank you for your support!
+
+*Richu Joseph*
+
+# OBJECT ORIENTED PROGRAMMING USING JAVA!
 
 I'm Richu Joseph, a dedicated Java developer with a focus on Object-Oriented Programming principles. Here , you can explore my college lab projects that demonstrate my skills and understanding of OOP concepts.
 
