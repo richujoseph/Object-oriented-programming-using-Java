@@ -59,10 +59,6 @@ A simple program that prints "Hello, World!" to the console.
 - [LinkedIn](https://www.linkedin.com/in/richu-joseph-7a1b50290)
 - [GitHub](https://github.com/richujoseph)
 
-## GitHub Stats
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=richujoseph&theme=dark&background=000000)](https://git.io/streak-stats)
-
 ## Visitor Counter
 
 [![Visitor Counter](https://komarev.com/ghpvc/?username=richujoseph&style=flat-square&color=blue)](https://github.com/richujoseph)
